@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Refactor code CSharp", "01. Refactore code\01. Refactor code CSharp.csproj", "{715DE249-B02A-46A6-B29B-E3D04C3DAD33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Refactor code CSharp", "02. Refactor code\02. Refactor code CSharp.csproj", "{0EB9D2DF-5783-4741-B158-E956E1EDE284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Refactor Code JS", "03. Refactor Code JS\03. Refactor Code JS.csproj", "{9A3D8D98-3902-485A-BF30-8A7CE77CE91F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Mines", "04. Mines\04. Mines.csproj", "{05A3C28B-8069-406D-99AA-01C7AFE73D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{715DE249-B02A-46A6-B29B-E3D04C3DAD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715DE249-B02A-46A6-B29B-E3D04C3DAD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715DE249-B02A-46A6-B29B-E3D04C3DAD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715DE249-B02A-46A6-B29B-E3D04C3DAD33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB9D2DF-5783-4741-B158-E956E1EDE284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB9D2DF-5783-4741-B158-E956E1EDE284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB9D2DF-5783-4741-B158-E956E1EDE284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB9D2DF-5783-4741-B158-E956E1EDE284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3D8D98-3902-485A-BF30-8A7CE77CE91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3D8D98-3902-485A-BF30-8A7CE77CE91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3D8D98-3902-485A-BF30-8A7CE77CE91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3D8D98-3902-485A-BF30-8A7CE77CE91F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A3C28B-8069-406D-99AA-01C7AFE73D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A3C28B-8069-406D-99AA-01C7AFE73D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A3C28B-8069-406D-99AA-01C7AFE73D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A3C28B-8069-406D-99AA-01C7AFE73D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

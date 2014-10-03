@@ -1,0 +1,10 @@
+C:\Users\Angel\Desktop\TDD\bin\Debug\Poker.exe
+C:\Users\Angel\Desktop\TDD\bin\Debug\Poker.pdb
+C:\Users\Angel\Desktop\TDD\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\TDD\obj\Debug\Poker.exe
+C:\Users\Angel\Desktop\TDD\obj\Debug\Poker.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\TDD\obj\Debug\Poker.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\TDD\obj\Debug\Poker.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\TDD\bin\Debug\Poker.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\TDD\bin\Debug\Poker.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\TDD\obj\Debug\Poker.csprojResolveAssemblyReference.cache

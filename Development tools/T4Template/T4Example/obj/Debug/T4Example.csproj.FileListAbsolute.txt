@@ -1,0 +1,12 @@
+c:\users\angel\documents\visual studio 2013\Projects\T4Template\T4Example\bin\Debug\T4Example.exe.config
+c:\users\angel\documents\visual studio 2013\Projects\T4Template\T4Example\bin\Debug\T4Example.exe
+c:\users\angel\documents\visual studio 2013\Projects\T4Template\T4Example\bin\Debug\T4Example.pdb
+c:\users\angel\documents\visual studio 2013\Projects\T4Template\T4Example\obj\Debug\T4Example.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2013\Projects\T4Template\T4Example\obj\Debug\T4Example.exe
+c:\users\angel\documents\visual studio 2013\Projects\T4Template\T4Example\obj\Debug\T4Example.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Development tools\T4Template\T4Example\bin\Debug\T4Example.exe.config
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Development tools\T4Template\T4Example\obj\Debug\T4Example.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Development tools\T4Template\T4Example\obj\Debug\T4Example.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Development tools\T4Template\T4Example\bin\Debug\T4Example.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Development tools\T4Template\T4Example\bin\Debug\T4Example.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Development tools\T4Template\T4Example\obj\Debug\T4Example.csprojResolveAssemblyReference.cache

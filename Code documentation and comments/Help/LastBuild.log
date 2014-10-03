@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder" version="2014.4.22.0" projectFile="C:\Users\Angel\Documents\Program.shfbproj" started="17.5.2014 г. 15:29:34">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
+Locating components in the following folder(s):
+   C:\Users\Angel\Documents
+Using presentation style &#39;VS2005&#39; located in &#39;c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005&#39;
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code documentation and comments\01. Add comments and documentation\Program.dll
+    Found assembly &#39;C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code documentation and comments\01. Add comments and documentation\Program.dll&#39;
+Source: C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code documentation and comments\01. Add comments and documentation\Program.xml
+
+Copying XML comments files
+    C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code documentation and comments\01. Add comments and documentation\Program.xml -&gt; C:\Users\Angel\Documents\Help\Working\Program.xml
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+    Last step completed in 00:00:00.4164
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0320
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 17.5.2014 ?. 15:29:44.
+Project &quot;C:\Users\Angel\Documents\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
+PrepareForBuild:
+  Creating directory &quot;obj\Debug\&quot;.
+GenerateRefInfo:
+  MRefBuilder (v2014.1.26.0)
+  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Loaded 1 assemblies for reflection and 1 dependency assemblies.
+  Wrote information on 1 namespaces, 1 types, and 16 members
+  Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
+  XslTransform (v2014.1.26.0)
+  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
+Done Building Project &quot;C:\Users\Angel\Documents\Help\Working\GenerateRefInfo.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.34
+    Last step completed in 00:00:06.6200
+</buildStep>
+<buildStep step="TransformReflectionInfo">
+Transforming reflection output...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 17.5.2014 ?. 15:29:50.
+Project &quot;C:\Users\Angel\Documents\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
+TransformManifest:
+  XslTransform (v2014.1.26.0)
+  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
+  Copying file from &quot;reflection.xml&quot; to &quot;reflection.nofilenames&quot;.
+  XslTransform (v2014.1.26.0)
+  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\AddFilenames.xsl&#39;.
+  XslTransform (v2014.1.26.0)
+  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
+Done Building Project &quot;C:\Users\Angel\Documents\Help\Working\TransformManifest.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.82
+    Last step completed in 00:00:04.5571
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.0780
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+No additional content to copy
+    Last step completed in 00:00:00.0350
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00.0040
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 17.5.2014 ?. 15:29:54.
+Project &quot;C:\Users\Angel\Documents\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
+GenerateIntermediateTOC:
+  XslTransform (v2014.1.26.0)
+  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\CreateVSToc.xsl&#39;.
+Done Building Project &quot;C:\Users\Angel\Documents\Help\Working\GenerateIntermediateTOC.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.52
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:02.2530
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    sandcastle.config
+    Last step completed in 00:00:00.5585
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+C:\Users\Angel\Documents\Help\Working\sandcastle.config
+    Last step completed in 00:00:00.0510
+</buildStep>
+<buildStep step="BuildReferenceTopics">
+Building reference help topics...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 17.5.2014 ?. 15:29:57.
+Project &quot;C:\Users\Angel\Documents\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
+BuildReferenceTopics:
+  BuildAssembler (v2014.1.26.0)
+  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Loading configuration...
+  ResolveReferenceLinksComponent: The MSDN content ID cache &#39;C:\Users\Angel\AppData\Local\EWSoftware\Sandcastle Help File Builder\Cache\MsdnContentId.cache&#39; does not exist yet.  All IDs will be looked up in this build which will slow it down.
+  Processing topics...
+BuildAssembler : warning : ShowMissingComponent: [N:Telerik.ILS.Common] Missing &lt;summary&gt; documentation [C:\Users\Angel\Documents\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Telerik.ILS.Common.StringExtensions] Missing &lt;summary&gt; documentation [C:\Users\Angel\Documents\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:Telerik.ILS.Common.StringExtensions] MSDN web service failed.  No further look ups will be performed for this build. [C:\Users\Angel\Documents\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : Reason: The remote name could not be resolved: &#39;services.msdn.microsoft.com&#39; [C:\Users\Angel\Documents\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Telerik.ILS.Common.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)] Missing &lt;returns&gt; documentation [C:\Users\Angel\Documents\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Telerik.ILS.Common.StringExtensions.ToMd5Hash(System.String)] Missing &lt;summary&gt; documentation [C:\Users\Angel\Documents\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Telerik.ILS.Common.StringExtensions.ToMd5Hash(System.String)] Missing &lt;returns&gt; documentation [C:\Users\Angel\Documents\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Telerik.ILS.Common.StringExtensions.ToMd5Hash(System.String)] Missing &lt;param name=&quot;input&quot;/&gt; documentation [C:\Users\Angel\Documents\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Telerik.ILS.Common.StringExtensions.ToValidLatinFileName(System.String)] Missing &lt;returns&gt; documentation [C:\Users\Angel\Documents\Help\Working\BuildReferenceTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Telerik.ILS.Common.StringExtensions.ToValidUsername(System.String)] Missing &lt;returns&gt; documentation [C:\Users\Angel\Documents\Help\Working\BuildReferenceTopics.proj]
+  Processed 20 topic(s)
+  9 warning(s)
+  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 2 of 15.
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 2 of 30.
+Done Building Project &quot;C:\Users\Angel\Documents\Help\Working\BuildReferenceTopics.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:24.04
+    Last step completed in 00:00:24.8384
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+
+Clearing any prior web output
+    Last step completed in 00:00:00.0120
+</buildStep>
+<buildStep step="ExtractingHtmlInfo">
+Extracting HTML info for HTML Help 1 and/or website...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Sandcastle Help File Builder, version 2014.4.22.0
+Copyright c 2006-2014, Eric Woodruff, All Rights Reserved
+E-Mail: Eric@EWoodruff.us
+
+Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
+
+Processing website files in C:\Users\Angel\Documents\Help\Working\Output\Website
+Processed 20 HTML files
+Sorting keywords and generating See Also indices
+Saving website keyword index to C:\Users\Angel\Documents\Help\Working\WebKI.xml
+Saving website table of contents to C:\Users\Angel\Documents\Help\Working\WebTOC.xml
+    Last step completed in 00:00:02.5323
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\adm.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\adm.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\adm_arch.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\adm_arch.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\adm_dev.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\adm_dev.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\adm_dev_arch.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\adm_dev_arch.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\alert_caution.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\alert_caution.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\alert_note.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\alert_note.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\alert_security.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\alert_security.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\arch.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\arch.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\big_adm.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\big_adm.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\big_arch.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\big_arch.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\big_dev.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\big_dev.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\big_kw.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\big_kw.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\box.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\box.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\Caution.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\Caution.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\CFW.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\CFW.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\collall.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\collall.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\collapse.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\collapse.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\collapse_all.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\collapse_all.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\copycode.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\copycode.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\copycodeHighlight.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\copycodeHighlight.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\dev.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\dev.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\dev_arch.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\dev_arch.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\dropdown.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\dropdown.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\dropdownHover.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\dropdownHover.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\drpdown.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\drpdown.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\drpdown_orange.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\drpdown_orange.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\drpdown_orange_up.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\drpdown_orange_up.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\drpup.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\drpup.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\exp.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\exp.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\expall.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\expall.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\expand_all.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\expand_all.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\filter1a.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\filter1a.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\filter1c.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\filter1c.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\footer.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\footer.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\gradient.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\gradient.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\greencheck.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\greencheck.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\greychck.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\greychck.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\header_prev_next.jpg -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\header_prev_next.jpg
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\header_sql_tutorial_blank.jpg -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\header_sql_tutorial_blank.jpg
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\header_sql_tutorial_logo.GIF -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\header_sql_tutorial_logo.GIF
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\kw.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\kw.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\kw_adm.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\kw_adm.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\kw_adm_arch.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\kw_adm_arch.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\kw_adm_dev.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\kw_adm_dev.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\kw_adm_dev_arch.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\kw_adm_dev_arch.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\kw_arch.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\kw_arch.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\kw_dev.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\kw_dev.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\kw_dev_arch.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\kw_dev_arch.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\LastChild.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\LastChild.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\load.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\load.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\load_hover.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\load_hover.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\note.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\note.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\pencil.GIF -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\pencil.GIF
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\privclass.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\privclass.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\privdelegate.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\privdelegate.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\privenum.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\privenum.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\privenumeration.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\privenumeration.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\privevent.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\privevent.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\privextension.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\privextension.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\privfield.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\privfield.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\privinterface.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\privinterface.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\privmethod.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\privmethod.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\privproperty.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\privproperty.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\privstructure.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\privstructure.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\protclass.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\protclass.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\protdelegate.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\protdelegate.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\protenum.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\protenum.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\protenumeration.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\protenumeration.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\protevent.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\protevent.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\protextension.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\protextension.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\protfield.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\protfield.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\protinterface.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\protinterface.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\protmethod.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\protmethod.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\protoperator.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\protoperator.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\protproperty.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\protproperty.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\protstructure.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\protstructure.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\pubclass.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\pubclass.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\pubdelegate.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\pubdelegate.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\pubenum.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\pubenum.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\pubenumeration.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\pubenumeration.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\pubevent.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\pubevent.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\pubextension.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\pubextension.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\pubfield.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\pubfield.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\pubinterface.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\pubinterface.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\pubmethod.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\pubmethod.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\puboperator.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\puboperator.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\pubproperty.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\pubproperty.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\pubstructure.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\pubstructure.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\requirements1a.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\requirements1a.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\requirements1c.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\requirements1c.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\save.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\save.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\save_hover.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\save_hover.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\security.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\security.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\seealso1a.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\seealso1a.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\seealso1c.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\seealso1c.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\slMobile.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\slMobile.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\static.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\static.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\icons\xna.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\icons\xna.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\scripts\CheckboxMenu.js -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\scripts\CheckboxMenu.js
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\scripts\CommonUtilities.js -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\scripts\CommonUtilities.js
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\scripts\Dropdown.js -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\scripts\Dropdown.js
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\scripts\EventUtilities.js -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\scripts\EventUtilities.js
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\scripts\script_feedBack.js -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\scripts\script_feedBack.js
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\scripts\script_manifold.js -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\scripts\script_manifold.js
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\scripts\SplitScreen.js -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\scripts\SplitScreen.js
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005\styles\Presentation.css -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\styles\Presentation.css
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\CloseSearch.png -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\CloseSearch.png
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\CollapseAll.png -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\CollapseAll.png
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\Collapsed.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\Collapsed.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\Expanded.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\Expanded.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\favicon.ico -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\favicon.ico
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\FillNode.aspx -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\FillNode.aspx
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\FillNode.php -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\FillNode.php
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\Index.aspx -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\Index.aspx
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\Index.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\Index.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\index.html -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\index.html
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\index.php -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\index.php
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\Item.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\Item.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\LoadIndexKeywords.aspx -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\LoadIndexKeywords.aspx
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\LoadIndexKeywords.php -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\LoadIndexKeywords.php
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\Search.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\Search.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\SearchHelp.aspx -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\SearchHelp.aspx
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\SearchHelp.inc.php -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\SearchHelp.inc.php
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\SearchHelp.php -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\SearchHelp.php
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\Splitter.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\Splitter.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\SyncTOC.gif -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\SyncTOC.gif
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\TOC.css -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\TOC.css
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\TOC.js -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\TOC.js
+c:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Web\Web.Config -&gt; C:\Users\Angel\Documents\Help\Working\Output\Website\.\Web.Config
+    Last step completed in 00:00:02.6354
+</buildStep>
+<buildStep step="GenerateHelpFormatTableOfContents">
+Generating website table of contents file...
+    Last step completed in 00:00:00.0120
+</buildStep>
+<buildStep step="GenerateFullTextIndex">
+Generating full-text index for the website...
+
+    Last step completed in 00:00:00.5385
+</buildStep>
+<buildStep step="CopyingWebsiteFiles">
+Copying website files to output folder...
+
+Copied 100 files
+Copied 170 files for the website content
+    Last step completed in 00:00:00.9729
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:00.2012
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 05.17.2014 03:30 .  Total time: 00:00:54,5212
+
+</buildStep>
+</shfbBuild>

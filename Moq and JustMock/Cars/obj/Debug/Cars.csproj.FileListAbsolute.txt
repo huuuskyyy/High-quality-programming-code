@@ -1,0 +1,10 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Moq and JustMock\Cars\bin\Debug\Cars.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Moq and JustMock\Cars\bin\Debug\Cars.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Moq and JustMock\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Moq and JustMock\Cars\obj\Debug\Cars.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Moq and JustMock\Cars\obj\Debug\Cars.pdb
+E:\Development\Projects\High-quality programming code\Moq and JustMock\Cars\bin\Debug\Cars.dll
+E:\Development\Projects\High-quality programming code\Moq and JustMock\Cars\bin\Debug\Cars.pdb
+E:\Development\Projects\High-quality programming code\Moq and JustMock\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+E:\Development\Projects\High-quality programming code\Moq and JustMock\Cars\obj\Debug\Cars.dll
+E:\Development\Projects\High-quality programming code\Moq and JustMock\Cars\obj\Debug\Cars.pdb

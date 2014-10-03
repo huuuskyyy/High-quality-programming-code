@@ -1,0 +1,14 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\MatrixPathTests\bin\Debug\MatrixPathTests.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\MatrixPathTests\bin\Debug\MatrixPathTests.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\MatrixPathTests\bin\Debug\GameFifteen.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\MatrixPathTests\bin\Debug\GameFifteen.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\MatrixPathTests\obj\Debug\MatrixPathTests.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\MatrixPathTests\obj\Debug\MatrixPathTests.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\MatrixPathTests\obj\Debug\MatrixPathTests.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Refactoring\MatrixPathTests\bin\Debug\MatrixPathTests.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Refactoring\MatrixPathTests\bin\Debug\MatrixPathTests.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Refactoring\MatrixPathTests\bin\Debug\GameFifteen.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Refactoring\MatrixPathTests\bin\Debug\GameFifteen.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Refactoring\MatrixPathTests\obj\Debug\MatrixPathTests.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Refactoring\MatrixPathTests\obj\Debug\MatrixPathTests.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Refactoring\MatrixPathTests\obj\Debug\MatrixPathTests.pdb

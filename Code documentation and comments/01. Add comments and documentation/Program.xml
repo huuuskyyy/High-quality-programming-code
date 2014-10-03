@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Program</name>
+    </assembly>
+    <members>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Convert the input into boolean represeation
+            </summary>
+            <param name="input">User input is string</param>
+            <returns>The boolean represetation of the input</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToShort(System.String)">
+            <summary>
+            Convert the input into short represeation
+            </summary>
+            <param name="input">User input is string</param>
+            <returns>The short represetation of the input</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToInteger(System.String)">
+            <summary>
+            Convert the input into integer represeation
+            </summary>
+            <param name="input">User input is string</param>
+            <returns>The integer represetation of the input</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToLong(System.String)">
+            <summary>
+            Convert the input into long represeation
+            </summary>
+            <param name="input">User input is string</param>
+            <returns>The long represetation of the input</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Convert the input into DateTime represeation
+            </summary>
+            <param name="input">User input is string</param>
+            <returns>The DateTime represetation of the input</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Capitalize the first letter of the string
+            </summary>
+            <param name="input">User input is string</param>
+            <returns>The user input string with capital first letter</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Extract substring contained between specific two string and starting from certain position
+            </summary>
+            <param name="input">User input is string</param>
+            <param name="startString">The string, which the searching will start from</param>
+            <param name="endString">The string, which the searching will end with</param>
+            <param name="startFrom">The start position in the user input string at which the search for start and end string will begin</param>
+            <returns></returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            Conver string with cyrilic to latin letters
+            </summary>
+            <param name="input">User input is string</param>
+            <returns>Returns converted string from cyrilic to latin letters</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+             /// <summary>
+            Conver string with latin to cyrilic letters
+            </summary>
+            <param name="input">User input is string</param>
+            <returns>Returns converted string from latin to cyrilic letters</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Will validate user name entered with cyrilic letters
+            </summary>
+            <param name="input">User input is string</param>
+            <returns></returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Will validate file name entered with cyrilic letters
+            </summary>
+            <param name="input">User input is string</param>
+            <returns></returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Returns substring with length equal to given number of characters. Starts from 0 position
+            </summary>
+            <param name="input">User input is string</param>
+            <param name="charsCount">Number of characters for substring length</param>
+            <returns>Return substring with characters length starting from position 0</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            Extract the extension of a file
+            </summary>
+            <param name="fileName">The name of the file as a string</param>
+            <returns>Returns the file extension</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToContentType(System.String)">
+            <summary>
+            Shows what type is the content of a file
+            </summary>
+            <param name="fileExtension">The extension of a file as a string</param>
+            <returns>Returns string with file extension information</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Creates a byte array representation of a string
+            </summary>
+            <param name="input">String input</param>
+            <returns>Returns byte array converted from the input string</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,7 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\SchoolExample.Test\bin\Debug\SchoolExample.Test.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\SchoolExample.Test\bin\Debug\SchoolExample.Test.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\SchoolExample.Test\bin\Debug\School.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\SchoolExample.Test\bin\Debug\School.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\SchoolExample.Test\obj\Debug\SchoolExample.Test.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\SchoolExample.Test\obj\Debug\SchoolExample.Test.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\SchoolExample.Test\obj\Debug\SchoolExample.Test.pdb

@@ -1,0 +1,11 @@
+c:\users\angel\documents\visual studio 2013\Projects\Simple Logging\Logging HW\bin\Debug\Logging HW.exe.config
+c:\users\angel\documents\visual studio 2013\Projects\Simple Logging\Logging HW\bin\Debug\Logging HW.exe
+c:\users\angel\documents\visual studio 2013\Projects\Simple Logging\Logging HW\bin\Debug\Logging HW.pdb
+c:\users\angel\documents\visual studio 2013\Projects\Simple Logging\Logging HW\bin\Debug\log4net.dll
+c:\users\angel\documents\visual studio 2013\Projects\Simple Logging\Logging HW\bin\Debug\log4net.xml
+c:\users\angel\documents\visual studio 2013\Projects\Simple Logging\Logging HW\obj\Debug\Logging HW.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2013\Projects\Simple Logging\Logging HW\obj\Debug\Logging HW.exe
+c:\users\angel\documents\visual studio 2013\Projects\Simple Logging\Logging HW\obj\Debug\Logging HW.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Development tools\Simple Logging\Logging HW\bin\Debug\Logging HW.exe.config
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Development tools\Simple Logging\Logging HW\obj\Debug\Logging HW.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Development tools\Simple Logging\Logging HW\obj\Debug\Logging HW.pdb

@@ -1,0 +1,6 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Naming identifiers\04. Mines\bin\Debug\_04.Mines.exe.config
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Naming identifiers\04. Mines\bin\Debug\_04.Mines.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Naming identifiers\04. Mines\bin\Debug\_04.Mines.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Naming identifiers\04. Mines\obj\Debug\04. Mines.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Naming identifiers\04. Mines\obj\Debug\_04.Mines.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Naming identifiers\04. Mines\obj\Debug\_04.Mines.pdb

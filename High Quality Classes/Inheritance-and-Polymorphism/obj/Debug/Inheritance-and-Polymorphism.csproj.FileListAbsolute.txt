@@ -1,0 +1,5 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\High Quality Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\High Quality Classes\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\High Quality Classes\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\High Quality Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\High Quality Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb

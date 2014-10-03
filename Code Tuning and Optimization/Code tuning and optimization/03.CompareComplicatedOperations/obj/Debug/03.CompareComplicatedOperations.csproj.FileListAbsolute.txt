@@ -1,0 +1,6 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\03.CompareComplicatedOperations\bin\Debug\03.CompareComplicatedOperations.exe.config
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\03.CompareComplicatedOperations\bin\Debug\03.CompareComplicatedOperations.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\03.CompareComplicatedOperations\bin\Debug\03.CompareComplicatedOperations.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\03.CompareComplicatedOperations\obj\Debug\03.CompareComplicatedOperations.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\03.CompareComplicatedOperations\obj\Debug\03.CompareComplicatedOperations.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\03.CompareComplicatedOperations\obj\Debug\03.CompareComplicatedOperations.csprojResolveAssemblyReference.cache

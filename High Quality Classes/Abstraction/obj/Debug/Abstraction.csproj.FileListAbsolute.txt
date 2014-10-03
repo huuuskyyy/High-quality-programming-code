@@ -1,0 +1,5 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\High Quality Classes\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\High Quality Classes\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\High Quality Classes\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\High Quality Classes\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\High Quality Classes\Abstraction\obj\Debug\Abstraction.pdb

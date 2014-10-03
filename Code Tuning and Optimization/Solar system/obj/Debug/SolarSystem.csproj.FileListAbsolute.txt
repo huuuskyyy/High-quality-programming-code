@@ -1,0 +1,12 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Solar system\bin\Debug\SolarSystem.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Solar system\bin\Debug\SolarSystem.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Solar system\obj\Debug\MainWindow.g.cs
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Solar system\obj\Debug\App.g.cs
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Solar system\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Solar system\obj\Debug\SolarSystem_MarkupCompile.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Solar system\obj\Debug\SolarSystem_MarkupCompile.lref
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Solar system\obj\Debug\MainWindow.baml
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Solar system\obj\Debug\SolarSystem.g.resources
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Solar system\obj\Debug\SolarSystem.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Solar system\obj\Debug\SolarSystem.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Solar system\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache

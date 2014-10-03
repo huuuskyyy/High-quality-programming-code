@@ -1,0 +1,2 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\Code documentation and comments\01. Add comments and documentation\bin\Debug\_01.Add_comments_and_documentation.exe.config
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code documentation and comments\01. Add comments and documentation\bin\Debug\_01.Add_comments_and_documentation.exe.config

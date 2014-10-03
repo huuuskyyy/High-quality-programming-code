@@ -1,0 +1,6 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\04. CompareSortAlgorithms\bin\Debug\_04.CompareSortAlgorithms.exe.config
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\04. CompareSortAlgorithms\bin\Debug\_04.CompareSortAlgorithms.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\04. CompareSortAlgorithms\bin\Debug\_04.CompareSortAlgorithms.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\04. CompareSortAlgorithms\obj\Debug\04. CompareSortAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\04. CompareSortAlgorithms\obj\Debug\_04.CompareSortAlgorithms.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\04. CompareSortAlgorithms\obj\Debug\_04.CompareSortAlgorithms.pdb

@@ -1,0 +1,9 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\School\bin\Debug\School.exe.config
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\School\bin\Debug\School.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\School\bin\Debug\School.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\School\obj\Debug\SchoolExample.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\School\obj\Debug\School.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\Javascript\JS UI & DOM\Unit testing\School\obj\Debug\School.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Unit testing\School\bin\Debug\School.exe.config
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Unit testing\School\obj\Debug\School.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Unit testing\School\obj\Debug\School.pdb

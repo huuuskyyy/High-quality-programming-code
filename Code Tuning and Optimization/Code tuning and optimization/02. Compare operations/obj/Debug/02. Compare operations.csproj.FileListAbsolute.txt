@@ -1,0 +1,6 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\02. Compare operations\bin\Debug\_02.Compare_operations.exe.config
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\02. Compare operations\bin\Debug\_02.Compare_operations.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\02. Compare operations\bin\Debug\_02.Compare_operations.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\02. Compare operations\obj\Debug\02. Compare operations.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\02. Compare operations\obj\Debug\_02.Compare_operations.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\Code Tuning and Optimization\Code tuning and optimization\02. Compare operations\obj\Debug\_02.Compare_operations.pdb

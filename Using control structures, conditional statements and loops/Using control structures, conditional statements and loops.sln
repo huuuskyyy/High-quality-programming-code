@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Refactor code", "01. Refactor code\01. Refactor code.csproj", "{10B5094C-341B-48CD-B526-7C12EE54F143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Refactor code", "02. Refactor code\02. Refactor code.csproj", "{B6C75363-927C-4A33-9A61-BD768D290A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Refactor code", "03. Refactor code\03. Refactor code.csproj", "{556EFF9B-FBCA-4C71-975A-BA82703721DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B5094C-341B-48CD-B526-7C12EE54F143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B5094C-341B-48CD-B526-7C12EE54F143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B5094C-341B-48CD-B526-7C12EE54F143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B5094C-341B-48CD-B526-7C12EE54F143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C75363-927C-4A33-9A61-BD768D290A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C75363-927C-4A33-9A61-BD768D290A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C75363-927C-4A33-9A61-BD768D290A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C75363-927C-4A33-9A61-BD768D290A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556EFF9B-FBCA-4C71-975A-BA82703721DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556EFF9B-FBCA-4C71-975A-BA82703721DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556EFF9B-FBCA-4C71-975A-BA82703721DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556EFF9B-FBCA-4C71-975A-BA82703721DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

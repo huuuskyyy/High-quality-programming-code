@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Poker.Tests\bin\Debug\Poker.Tests.dll
+C:\Users\Angel\Desktop\Poker.Tests\bin\Debug\Poker.Tests.pdb
+C:\Users\Angel\Desktop\Poker.Tests\bin\Debug\Poker.exe
+C:\Users\Angel\Desktop\Poker.Tests\bin\Debug\Poker.pdb
+C:\Users\Angel\Desktop\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\Poker.Tests\obj\Debug\Poker.Tests.dll
+C:\Users\Angel\Desktop\Poker.Tests\obj\Debug\Poker.Tests.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\TDD\Poker.Tests\bin\Debug\Poker.Tests.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\TDD\Poker.Tests\bin\Debug\Poker.Tests.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\TDD\Poker.Tests\bin\Debug\Poker.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\TDD\Poker.Tests\bin\Debug\Poker.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\TDD\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\TDD\Poker.Tests\obj\Debug\Poker.Tests.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\KPK\TDD\Poker.Tests\obj\Debug\Poker.Tests.pdb
